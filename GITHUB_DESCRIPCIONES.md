@@ -1,25 +1,9 @@
-# Textos para GitHub (copiar y pegar)
-
-En cada repositorio: engranaje ⚙️ junto a **About** → pegar **Description** y **Topics**.
-
----
-
 ## Perfil (botón "Edit profile")
 
 - **Name:** Giovanni Herrera Castilla
 - **Bio:** Automation & AI Specialist | RPA | Power Automate | Python | SAP | Claude
 - **Location:** Lima, Perú
 - **Website:** https://www.linkedin.com/in/giovanni-herrera-castilla-801146191/
-
-**README del perfil:** crea un repositorio público llamado exactamente **GiovanniRHC** y sube `GiovanniRHC/README.md`.
-
-**Pins (Customize your pins), en este orden:**
-1. PowerAutomate-MovimientosBancarios
-2. ClaudeIA-SSCO_Sunat
-3. Pandape-ATS
-4. PowerAutomate-CargaPedidosSAP
-5. Sistema-MonitorProcesos
-6. PowerAutomate-SeleccionMasivaATS
 
 ---
 
